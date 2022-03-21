@@ -15,7 +15,7 @@ print(len(myDiction))
 print()
 print()
 
-functions.function("hello")
+functions.function(("RED", "BLUE", "GREEN", "PINK"))
 
 i = 0
 while i <= 7:
